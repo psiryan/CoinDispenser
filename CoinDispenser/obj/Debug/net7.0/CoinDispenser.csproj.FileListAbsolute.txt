@@ -1,0 +1,15 @@
+/home/archfae/Projects/c-sharp/CoinDispenser/CoinDispenser/bin/Debug/net7.0/CoinDispenser
+/home/archfae/Projects/c-sharp/CoinDispenser/CoinDispenser/bin/Debug/net7.0/CoinDispenser.deps.json
+/home/archfae/Projects/c-sharp/CoinDispenser/CoinDispenser/bin/Debug/net7.0/CoinDispenser.runtimeconfig.json
+/home/archfae/Projects/c-sharp/CoinDispenser/CoinDispenser/bin/Debug/net7.0/CoinDispenser.dll
+/home/archfae/Projects/c-sharp/CoinDispenser/CoinDispenser/bin/Debug/net7.0/CoinDispenser.pdb
+/home/archfae/Projects/c-sharp/CoinDispenser/CoinDispenser/obj/Debug/net7.0/CoinDispenser.csproj.AssemblyReference.cache
+/home/archfae/Projects/c-sharp/CoinDispenser/CoinDispenser/obj/Debug/net7.0/CoinDispenser.GeneratedMSBuildEditorConfig.editorconfig
+/home/archfae/Projects/c-sharp/CoinDispenser/CoinDispenser/obj/Debug/net7.0/CoinDispenser.AssemblyInfoInputs.cache
+/home/archfae/Projects/c-sharp/CoinDispenser/CoinDispenser/obj/Debug/net7.0/CoinDispenser.AssemblyInfo.cs
+/home/archfae/Projects/c-sharp/CoinDispenser/CoinDispenser/obj/Debug/net7.0/CoinDispenser.csproj.CoreCompileInputs.cache
+/home/archfae/Projects/c-sharp/CoinDispenser/CoinDispenser/obj/Debug/net7.0/CoinDispenser.dll
+/home/archfae/Projects/c-sharp/CoinDispenser/CoinDispenser/obj/Debug/net7.0/refint/CoinDispenser.dll
+/home/archfae/Projects/c-sharp/CoinDispenser/CoinDispenser/obj/Debug/net7.0/CoinDispenser.pdb
+/home/archfae/Projects/c-sharp/CoinDispenser/CoinDispenser/obj/Debug/net7.0/CoinDispenser.genruntimeconfig.cache
+/home/archfae/Projects/c-sharp/CoinDispenser/CoinDispenser/obj/Debug/net7.0/ref/CoinDispenser.dll
