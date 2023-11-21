@@ -133,14 +133,6 @@ namespace CoinDispenser{
             Console.ReadLine();
         }
 
-        static double Quarters(double amount, ref int q){
-            while (amount > 0.25){ //using a while loop
-                q++;
-                amount -= 0.25; // same as amount = amount - 0.25
-            }
-            return amount;
-        }
-
 
 
     }
